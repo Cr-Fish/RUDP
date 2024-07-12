@@ -3,7 +3,7 @@
 In this folder you'll find the sample receiver, code for computing and
 validating checksums, as well as example sender code.
 
-Quick! What do I have to write?
+What do I have to write?
 ===============================
 Sender.py is the file in which you will implement your reliable sender.
 Sender.py provides all the scaffolding you need to handle the
